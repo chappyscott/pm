@@ -1,27 +1,20 @@
-# Pm
+# Property Management
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
+This is a full service property management software solution. Eventually it will be a self service site where property managers can sign-up and create their own rental management activities.
 
-## Development server
+This software will include:
+Renter's Information
+Renter Management (Users)
+Land Property Management
+Property Information Management
+Marketing Listings
+Messaging (including texting) 
+Accounting (probably take another accounting and integrate into this application like Ledger SBM) 
+Online Payment
+Maintenance Request
+Management Owners
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+This will be an Angular App running on AWS (scalable) and an unknown database structure at this point.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+More details to come soon.
